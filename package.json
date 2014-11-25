@@ -4,7 +4,7 @@
   "description": "Node Module JDBC wrapper",
   "main": "index.js",
   "dependencies": {
-    "java": "kidozen/node-java#kido",
+    "java": "https://github.com/kidozen/node-java/tarball/kido",
     "underscore": "~1.6.0",
     "promise": "~4.0.0"
   },
